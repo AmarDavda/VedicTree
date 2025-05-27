@@ -36,102 +36,297 @@
     {
       "id": 8,
       "name": "Angiras",
-      "children": []
+      "children": [
+        {
+          "id": 37,
+          "name": "Surupa",
+          "children": []
+        },
+        {
+          "id": 38,
+          "name": "Smriti",
+          "children": []
+        }
+      ]
     },
     {
       "id": 9,
       "name": "Bhrigu",
-      "children": []
+      "children": [
+        {
+          "id": 39,
+          "name": "Kavyamata",
+          "children": []
+        },
+        {
+          "id": 40,
+          "name": "Khyati",
+          "children": []
+        },
+        {
+          "id": 41,
+          "name": "Puloma",
+          "children": []
+        },
+        {
+          "id": 42,
+          "name": "Divyadevi",
+          "children": []
+        }
+      ]
     },
     {
       "id": 10,
       "name": "Pulaha",
-      "children": []
+      "children": [
+        {
+          "id": 43,
+          "name": "Kshama",
+          "children": []
+        },
+        {
+          "id": 44,
+          "name": "Gati",
+          "children": []
+        }
+      ]
     },
     {
       "id": 11,
       "name": "Pulastya",
-      "children": []
+      "children": [
+        {
+          "id": 45,
+          "name": "Havirbhu (Manini)",
+          "children": []
+        },
+        {
+          "id": 46,
+          "name": "Priti",
+          "children": []
+        },
+        {
+          "id": 47,
+          "name": "Havirbhu (Another)",
+          "children": []
+        },
+        {
+          "id": 48,
+          "name": "Swayamvara",
+          "children": []
+        }
+      ]
     },
     {
       "id": 12,
       "name": "Kratu",
-      "children": []
+      "children": [
+        {
+          "id": 49,
+          "name": "Kriya",
+          "children": []
+        },
+        {
+          "id": 50,
+          "name": "Sannati",
+          "children": []
+        }
+      ]
     },
     {
       "id": 13,
       "name": "Marichi",
-      "children": []
+      "children": [
+        {
+          "id": 51,
+          "name": "Kala",
+          "children": []
+        },
+        {
+          "id": 52,
+          "name": "Urna",
+          "children": []
+        },
+        {
+          "id": 53,
+          "name": "Sambhuti",
+          "children": []
+        },
+        {
+          "id": 54,
+          "name": "Dharmavrata",
+          "children": []
+        }
+      ]
     },
     {
       "id": 14,
       "name": "Atri",
-      "children": []
+      "children": [
+        {
+          "id": 55,
+          "name": "Anashuya",
+          "children": []
+        }
+      ]
     },
     {
       "id": 15,
       "name": "Ahalya",
-      "children": []
+      "children": [
+        {
+          "id": 56,
+          "name": "(Married to Gautama)",
+          "children": []
+        }
+      ]
     },
     {
       "id": 16,
       "name": "Vashishtha",
-      "children": []
+      "children": [
+        {
+          "id": 57,
+          "name": "Arundhati",
+          "children": []
+        },
+        {
+          "id": 58,
+          "name": "Urja",
+          "children": []
+        },
+        {
+          "id": 59,
+          "name": "Madayanti (Niyoga)",
+          "children": []
+        }
+      ]
     },
     {
       "id": 17,
       "name": "Atharvana",
-      "children": []
+      "children": [
+        {
+          "id": 60,
+          "name": "Shanti",
+          "children": []
+        }
+      ]
     },
     {
       "id": 18,
       "name": "Panchajana",
-      "children": []
+      "children": [
+        {
+          "id": 61,
+          "name": "Virani",
+          "children": []
+        }
+      ]
     },
     {
       "id": 19,
       "name": "Ruchi",
-      "children": []
+      "children": [
+        {
+          "id": 62,
+          "name": "Ahuti (Akuti)",
+          "children": []
+        }
+      ]
     },
     {
       "id": 20,
       "name": "Daksha",
-      "children": []
+      "children": [
+        {
+          "id": 63,
+          "name": "Prasuti",
+          "children": []
+        },
+        {
+          "id": 64,
+          "name": "Aksini",
+          "children": []
+        }
+      ]
     },
     {
       "id": 21,
       "name": "Himavana",
-      "children": []
+      "children": [
+        {
+          "id": 65,
+          "name": "Menavati",
+          "children": []
+        }
+      ]
     },
     {
       "id": 22,
       "name": "Jambavana",
-      "children": []
+      "children": [
+        {
+          "id": 66,
+          "name": "Jambavati",
+          "children": []
+        }
+      ]
     },
     {
       "id": 23,
       "name": "Samudradev (Varuna)",
-      "children": []
+      "children": [
+        {
+          "id": 67,
+          "name": "Tirangini",
+          "children": []
+        }
+      ]
     },
     {
       "id": 24,
       "name": "Agni",
-      "children": []
+      "children": [
+        {
+          "id": 68,
+          "name": "Svaha",
+          "children": []
+        }
+      ]
     },
     {
       "id": 25,
       "name": "Vayu",
-      "children": []
+      "children": [
+        {
+          "id": 69,
+          "name": "Svasti",
+          "children": []
+        }
+      ]
     },
     {
       "id": 26,
       "name": "Swayambhu-Manu",
-      "children": []
+      "children": [
+        {
+          "id": 70,
+          "name": "Satrupa",
+          "children": []
+        }
+      ]
     },
     {
       "id": 27,
       "name": "Satrupa",
-      "children": []
+      "children": [
+        {
+          "id": 71,
+          "name": "(Married to Swayambhu-Manu)",
+          "children": []
+        }
+      ]
     },
     {
       "id": 28,
@@ -141,17 +336,40 @@
     {
       "id": 29,
       "name": "Usha",
-      "children": []
+      "children": [
+        {
+          "id": 72,
+          "name": "(Married to Suryadev)",
+          "children": []
+        }
+      ]
     },
     {
       "id": 30,
       "name": "Nisha",
-      "children": []
+      "children": [
+        {
+          "id": 73,
+          "name": "(Married to Suryadev)",
+          "children": []
+        }
+      ]
     },
     {
       "id": 31,
       "name": "Chitragupta",
-      "children": []
+      "children": [
+        {
+          "id": 74,
+          "name": "Iravati",
+          "children": []
+        },
+        {
+          "id": 75,
+          "name": "Nandini",
+          "children": []
+        }
+      ]
     },
     {
       "id": 32,
@@ -166,17 +384,45 @@
     {
       "id": 34,
       "name": "Dharma",
-      "children": []
+      "children": [
+        {
+          "id": 76,
+          "name": "(Married to 13 daughters of Daksha & Prasuti in a manvantara)",
+          "children": []
+        },
+        {
+          "id": 77,
+          "name": "(Married to 10 daughters of Daksha & Aksini in another manvantara)",
+          "children": []
+        }
+      ]
     },
     {
       "id": 35,
       "name": "Adharma",
-      "children": []
+      "children": [
+        {
+          "id": 79,
+          "name": "Himsa",
+          "children": []
+        },
+        {
+          "id": 80,
+          "name": "Mithya",
+          "children": []
+        }
+      ]
     },
     {
       "id": 36,
       "name": "Himsa",
-      "children": []
+      "children": [
+        {
+          "id": 78,
+          "name": "(Married to Adharma)",
+          "children": []
+        }
+      ]
     }
   ]
 }
