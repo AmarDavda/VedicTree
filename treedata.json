@@ -72,6 +72,111 @@
       "id": 15,
       "name": "Ahalya",
       "children": []
+    },
+    {
+      "id": 16,
+      "name": "Vashishtha",
+      "children": []
+    },
+    {
+      "id": 17,
+      "name": "Atharvana",
+      "children": []
+    },
+    {
+      "id": 18,
+      "name": "Panchajana",
+      "children": []
+    },
+    {
+      "id": 19,
+      "name": "Ruchi",
+      "children": []
+    },
+    {
+      "id": 20,
+      "name": "Daksha",
+      "children": []
+    },
+    {
+      "id": 21,
+      "name": "Himavana",
+      "children": []
+    },
+    {
+      "id": 22,
+      "name": "Jambavana",
+      "children": []
+    },
+    {
+      "id": 23,
+      "name": "Samudradev (Varuna)",
+      "children": []
+    },
+    {
+      "id": 24,
+      "name": "Agni",
+      "children": []
+    },
+    {
+      "id": 25,
+      "name": "Vayu",
+      "children": []
+    },
+    {
+      "id": 26,
+      "name": "Swayambhu-Manu",
+      "children": []
+    },
+    {
+      "id": 27,
+      "name": "Satrupa",
+      "children": []
+    },
+    {
+      "id": 28,
+      "name": "Vishvakarma",
+      "children": []
+    },
+    {
+      "id": 29,
+      "name": "Usha",
+      "children": []
+    },
+    {
+      "id": 30,
+      "name": "Nisha",
+      "children": []
+    },
+    {
+      "id": 31,
+      "name": "Chitragupta",
+      "children": []
+    },
+    {
+      "id": 32,
+      "name": "Rakshasas",
+      "children": []
+    },
+    {
+      "id": 33,
+      "name": "Vanaras",
+      "children": []
+    },
+    {
+      "id": 34,
+      "name": "Dharma",
+      "children": []
+    },
+    {
+      "id": 35,
+      "name": "Adharma",
+      "children": []
+    },
+    {
+      "id": 36,
+      "name": "Himsa",
+      "children": []
     }
   ]
 }
