@@ -1,5 +1,11 @@
 {
-  "id":1,
+  "id": 1,
   "name": "Brahma",
-  "children": []
+  "children": [
+    {
+      "id": 2,
+      "name": "sanata kumaras",
+      "children": []
+    }
+  ]
 }
