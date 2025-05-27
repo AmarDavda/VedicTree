@@ -4,7 +4,73 @@
   "children": [
     {
       "id": 2,
-      "name": "sanata kumaras",
+      "name": "Sanakadi-Kumaras",
+      "children": [
+        {
+          "id": 3,
+          "name": "Sanaka",
+          "children": []
+        },
+        {
+          "id": 4,
+          "name": "Sanandana",
+          "children": []
+        },
+        {
+          "id": 5,
+          "name": "Sanatana",
+          "children": []
+        },
+        {
+          "id": 6,
+          "name": "Sanatkumara",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Narada",
+      "children": []
+    },
+    {
+      "id": 8,
+      "name": "Angiras",
+      "children": []
+    },
+    {
+      "id": 9,
+      "name": "Bhrigu",
+      "children": []
+    },
+    {
+      "id": 10,
+      "name": "Pulaha",
+      "children": []
+    },
+    {
+      "id": 11,
+      "name": "Pulastya",
+      "children": []
+    },
+    {
+      "id": 12,
+      "name": "Kratu",
+      "children": []
+    },
+    {
+      "id": 13,
+      "name": "Marichi",
+      "children": []
+    },
+    {
+      "id": 14,
+      "name": "Atri",
+      "children": []
+    },
+    {
+      "id": 15,
+      "name": "Ahalya",
       "children": []
     }
   ]
