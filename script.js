@@ -148,7 +148,7 @@ $(function () {
         const url = URL.createObjectURL(blob);
         const a = $('<a>')
             .attr('href', url)
-            .attr('download', 'updatedtree.json')
+            .attr('download', 'treedata.json')
             .appendTo('body');
         a[0].click();
         a.remove();
