@@ -4,7 +4,7 @@
   "children": [
     {
       "id": 2,
-      "name": "Sanakadi-Kumaras",
+      "name": "4 Sanakadi Kumaras",
       "children": [
         {
           "id": 3,
@@ -391,7 +391,67 @@
         {
           "id": 39,
           "name": "Kavyamata",
-          "children": []
+          "children": [
+            {
+              "id": 143,
+              "name": "Shukra (Kavi Usanas)",
+              "children": [
+                {
+                  "id": 144,
+                  "name": "Jayanti",
+                  "children": [
+                    {
+                      "id": 145,
+                      "name": "Ruchaka",
+                      "children": []
+                    },
+                    {
+                      "id": 146,
+                      "name": "Shanda",
+                      "children": []
+                    },
+                    {
+                      "id": 147,
+                      "name": "Ara",
+                      "children": []
+                    },
+                    {
+                      "id": 148,
+                      "name": "Tvasthadhar",
+                      "children": []
+                    },
+                    {
+                      "id": 149,
+                      "name": "Marka",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 151,
+                  "name": "Urjjasvati",
+                  "children": [
+                    {
+                      "id": 153,
+                      "name": "Devayani",
+                      "children": [
+                        {
+                          "id": 154,
+                          "name": "(Married to Yayati)",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 152,
+                  "name": "Sataparva",
+                  "children": []
+                }
+              ]
+            }
+          ]
         },
         {
           "id": 40,
@@ -458,13 +518,19 @@
       "children": [
         {
           "id": 49,
-          "name": "Kriya",
-          "children": []
-        },
-        {
-          "id": 50,
-          "name": "Sannati",
-          "children": []
+          "name": "Kriya | Sannati",
+          "children": [
+            {
+              "id": 155,
+              "name": "60,000 Balakhilyas Rishi",
+              "children": []
+            },
+            {
+              "id": 156,
+              "name": "Idhmavaha (Adopted from Agastya)",
+              "children": []
+            }
+          ]
         }
       ]
     },
